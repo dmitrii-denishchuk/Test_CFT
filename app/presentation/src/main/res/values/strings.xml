@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name" translatable="false">Test_CFT</string>
+
+    <!--    Loading messages-->
+    <string name="error_internet_connection">Something is wrong with the Internet</string>
+    <string name="loaded_locally">Loaded locally</string>
+
+    <!--    Screen names-->
+    <string name="feed_screen">Random users</string>
+    <string name="details_screen">About the user</string>
+
+    <!--    Descriptions-->
+    <string name="thumbnail_user_picture_description">Thumbnail user picture</string>
+    <string name="large_user_picture_description">Large user picture</string>
+    <string name="call_description">Call</string>
+    <string name="send_email_description">Send Email</string>
+    <string name="see_coordinates_description">See coordinates</string>
+    <string name="loading_error_description">Loading error</string>
+
+    <!--    Component names-->
+    <string name="city_lower_case">city</string>
+    <string name="street_lower_case">street</string>
+    <string name="back_button">Back</string>
+    <string name="contact_information">Contact information</string>
+    <string name="personal_information">Personal information</string>
+    <string name="location_information">Location information</string>
+
+    <!--    User parameters-->
+    <string name="nationality">Nationality</string>
+    <string name="gender">Gender</string>
+    <string name="phone_number">Phone number</string>
+    <string name="day_of_birth">Day of birth</string>
+    <string name="age">Age</string>
+    <string name="name">Name</string>
+    <string name="title">Title</string>
+    <string name="registration_date">Registration date</string>
+    <string name="registration_age">Registration age</string>
+    <string name="country">Country</string>
+    <string name="city_upper_case">City</string>
+    <string name="street_upper_case">Street</string>
+    <string name="timezone">Timezone</string>
+    <string name="postcode">Postcode</string>
+    <string name="coordinates">Coordinates</string>
+    <string name="state">State</string>
+    <string name="cell_phone">Cell phone number</string>
+    <string name="email">Email</string>
+</resources>

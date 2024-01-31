@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--    Сообщения загрузки-->
+    <string name="error_internet_connection">Что-то не так с интернетом</string>
+    <string name="loaded_locally">Загружено локально</string>
+
+    <!--    Имена экранов-->
+    <string name="feed_screen">Случайные пользователи</string>
+    <string name="details_screen">О пользователе</string>
+
+    <!--    Описания-->
+    <string name="thumbnail_user_picture_description">Миниатюра изображения пользователя</string>
+    <string name="large_user_picture_description">Большое изображение пользователя</string>
+    <string name="call_description">Позвонить</string>
+    <string name="send_email_description">Отправить емаил</string>
+    <string name="see_coordinates_description">Посмотреть координаты</string>
+    <string name="loading_error_description">Ошибка загрузки</string>
+
+    <!--    Имена компонентов-->
+    <string name="city_lower_case">город</string>
+    <string name="street_lower_case">улица</string>
+    <string name="back_button">Назад</string>
+    <string name="contact_information">Контактная информация</string>
+    <string name="personal_information">Персональная информация</string>
+    <string name="location_information">Информация о местонахождении</string>
+
+    <!--    Параметры пользователя-->
+    <string name="nationality">Национальность</string>
+    <string name="gender">Пол</string>
+    <string name="phone_number">Номер телефона</string>
+    <string name="day_of_birth">День рождения</string>
+    <string name="age">Возраст</string>
+    <string name="name">Имя</string>
+    <string name="title">Обращение</string>
+    <string name="registration_date">Дата регистрации</string>
+    <string name="registration_age">Возраст регистрации</string>
+    <string name="country">Страна</string>
+    <string name="city_upper_case">Город</string>
+    <string name="street_upper_case">Улица</string>
+    <string name="timezone">Часовой пояс</string>
+    <string name="postcode">Почтовый индекс</string>
+    <string name="coordinates">Координаты</string>
+    <string name="state">Область</string>
+    <string name="cell_phone">Номер сотового телефона</string>
+    <string name="email">Электронная почта</string>
+</resources>

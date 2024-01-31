@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    Sizes-->
+    <dimen name="user_gender_icon_size">48.dp</dimen>
+    <dimen name="thumbnail_user_picture_size">48.dp</dimen>
+    <dimen name="large_user_picture_size">192.dp</dimen>
+
+    <!--    Paddings-->
+    <dimen name="medium_padding">16.dp</dimen>
+    <dimen name="small_padding">8.dp</dimen>
+</resources>
