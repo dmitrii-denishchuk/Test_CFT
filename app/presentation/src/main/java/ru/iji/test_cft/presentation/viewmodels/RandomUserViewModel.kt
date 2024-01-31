@@ -64,13 +64,11 @@ class RandomUserViewModel @Inject constructor(
     }
 
     sealed class RandomUsersState(
-        val isLoading: Boolean,
         val randomUsers: List<RandomUserModel>?,
         val message: String?
     ) {
 
         class Loading : RandomUsersState(
-            isLoading = true,
             randomUsers = null,
             message = null
         )
@@ -79,13 +77,11 @@ class RandomUserViewModel @Inject constructor(
             randomUsers: List<RandomUserModel>,
             message: String? = null
         ) : RandomUsersState(
-            isLoading = false,
             randomUsers = randomUsers,
             message = message
         )
 
         class Error(message: String?) : RandomUsersState(
-            isLoading = false,
             randomUsers = null,
             message = message
         )

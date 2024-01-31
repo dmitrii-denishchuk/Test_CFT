@@ -6,9 +6,6 @@ import com.squareup.moshi.Moshi
 import ru.iji.test_cft.data.dto.RandomUserDto.Dob
 import ru.iji.test_cft.data.dto.RandomUserDto.Id
 import ru.iji.test_cft.data.dto.RandomUserDto.Location
-import ru.iji.test_cft.data.dto.RandomUserDto.Location.Coordinates
-import ru.iji.test_cft.data.dto.RandomUserDto.Location.Street
-import ru.iji.test_cft.data.dto.RandomUserDto.Location.Timezone
 import ru.iji.test_cft.data.dto.RandomUserDto.Login
 import ru.iji.test_cft.data.dto.RandomUserDto.Name
 import ru.iji.test_cft.data.dto.RandomUserDto.Picture
