@@ -1,4 +1,4 @@
-# Тестовое задание для ЦФТ. Курс Android 
+# Тестовое задание ЦФТ. Курс Android 
 
 ## Задача
 Реализовать Android-приложение со следующими функциями:
@@ -18,22 +18,20 @@
 * показать координаты пользователя на карте
 
 ### Технологический стэк:
-Android Studio
-Kotlin
-Clean architecture
-MVVM
-Jetpack compose
-Gradle
-Hilt
-Glide
-SQL
-Room
-Moshi
-Coroutines
-Retrofit2
+* Android Studio
+* Kotlin
+* Clean architecture
+* MVVM
+* Jetpack compose
+* Gradle
+* Hilt
+* Glide
+* SQL
+* Room
+* Moshi
+* Coroutines
+* Retrofit2
 
 ## Скриншоты приложения
-![Screenshot_1706798899](https://github.com/dmitrii-denishchuk/Test_CFT/assets/101312150/00019ba3-3dd2-45a7-807d-257830b2f928)
-![Screenshot_1706798900](https://github.com/dmitrii-denishchuk/Test_CFT/assets/101312150/421ba070-43e4-42a5-9574-e7569a39d6ba)
-![Screenshot_1706798902](https://github.com/dmitrii-denishchuk/Test_CFT/assets/101312150/0bcfba98-596b-4a21-8446-4dfa51f825d3)
-![Screenshot_1706798908](https://github.com/dmitrii-denishchuk/Test_CFT/assets/101312150/3d9a9e0d-c4c2-410c-8e6c-611c9ceb2360)
+> <img src="https://github.com/dmitrii-denishchuk/Test_CFT/assets/101312150/0bcfba98-596b-4a21-8446-4dfa51f825d3" width="180"/>
+> <img src="https://github.com/dmitrii-denishchuk/Test_CFT/assets/101312150/3d9a9e0d-c4c2-410c-8e6c-611c9ceb2360" width="180"/>
